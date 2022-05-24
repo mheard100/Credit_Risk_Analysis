@@ -34,9 +34,11 @@ The results for all six machine learning algorithms are shown below with their o
 
 
 - Cluster Centroid Undersampling: 
+![image](https://user-images.githubusercontent.com/97119920/170109463-cbf72715-9a46-48ad-934c-55f7cbe9736b.png)
 
 
 - SMOTEENN Combination Sampling: 
+![image](https://user-images.githubusercontent.com/97119920/170109517-ad271dda-5c8d-47ed-8050-7f3fe7cda109.png)
 
 
 - Balanced Random Forest Classifier: 
